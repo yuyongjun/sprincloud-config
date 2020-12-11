@@ -1,2 +1,2 @@
 config:
-  app: "prod"
+  info: "master application-prod,version=1"

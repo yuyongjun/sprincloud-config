@@ -1,2 +1,2 @@
 config:
-  app: "test"
+  info: "master application-test,version=1"
